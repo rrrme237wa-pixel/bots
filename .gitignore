@@ -1,0 +1,5 @@
+The file changes show only markdown files (.md) being added, which are source/documentation files that should not be ignored. There are no build artifacts, dependencies, temporary files, or other items that require ignoring.
+
+Therefore, no .gitignore rules are needed for this project based on the provided file changes.
+
+Output: (nothing)
